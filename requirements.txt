@@ -1,0 +1,10 @@
+streamlit
+plotly
+seaborn
+scipy
+pandas
+dask
+matplotlib
+numpy
+pyvo
+astropy
