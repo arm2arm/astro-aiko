@@ -1,5 +1,5 @@
 FROM python:3.7-buster
-#USER root 
+USER root 
 #RUN apt update &&\
 #    apt  install -q -y nfs-common
 #Upgrade pip
