@@ -8,3 +8,6 @@ matplotlib
 numpy
 pyvo
 astropy
+bokeh
+pyviz_comms
+holoviews
