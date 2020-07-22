@@ -10,4 +10,5 @@ pyvo
 astropy
 bokeh
 pyviz_comms
+hvplot
 holoviews
