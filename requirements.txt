@@ -2,7 +2,6 @@ plotly
 seaborn
 scipy
 pandas
-dask
 matplotlib
 numpy
 pyvo
@@ -11,4 +10,6 @@ bokeh
 pyviz_comms
 hvplot
 holoviews
+dask
+distributed
 streamlit
